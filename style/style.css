@@ -1,3 +1,8 @@
+body{
+    background-image: url("../img/ladro.gif-w500.gif");
+    background-repeat: no-repeat;
+}
+
 #mio_id{
     color: white;
     background-color: black;
